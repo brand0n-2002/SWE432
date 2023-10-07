@@ -1,0 +1,30 @@
+I earned points in the following areas for my provided HTML code:
+
+1. **Basic Markup & Element Usage (15 points):** I correctly used basic HTML markup and elements to create the structure of my web page. This includes the use of essential elements like `<html>`, `<head>`, `<meta>`, `<title>`, `<link>`, `<script>`, `<body>`, and various others.
+
+2. **Document Structure (DocType, Head, Body) (10 points):** My code begins with the correct `<!DOCTYPE html>` declaration, indicating the use of HTML5. I appropriately structured my document with `<head>` and `<body>` sections, ensuring that essential metadata and scripts are included in the `<head>` section and the visible content is placed within the `<body>` section.
+
+3. **HTML5 Semantic Elements (15 points):** I effectively employed HTML5 semantic elements like `<header>`, `<nav>`, `<main>`, `<footer>`, and `<section>`. These elements enhance the readability and structure of my code while providing context for search engines and assistive technologies.
+
+4. **Lists (Ordered/ Unordered/ Description) (10 points):** I used unordered lists (`<ul>`) in the navigation menu and appropriately listed navigation items within `<li>` elements. This usage conforms to standard HTML practices for creating lists.
+
+5. **Advanced HTML Elements & Attributes (10 points):** I utilized advanced HTML elements such as `<dialog>`, `<button>`, and `<input>` effectively. The `<dialog>` element is used to create a modal dialog box for user interaction, while `<button>` and `<input>` elements serve interactive purposes like opening and closing the dialog.
+
+6. **Interactive Elements Such as `<dialog>`, `<figcaption>` (10 points):** I incorporated the `<dialog>` element to create an interactive dialog box that opens when the "User" link is clicked. 
+
+7. **Media Elements: Proper use and embedding of `<audio>` (10 points):** I correctly embedded `<audio>` elements to include audio files with appropriate sources (`<source>`) for various stations. These elements allow users to control and listen to audio content directly from my web page, enhancing the user experience.
+
+CSS Basics (30 points):
+
+1. **Styling with CSS (colors, fonts, etc.) (15 points): I effectively applied styles to various elements in my HTML document. This includes setting background colors for the body, specifying fonts for text elements using the font-family property, and defining colors and backgrounds for elements like .left, .right, and .socials. These styling choices enhance the visual appeal of the web page.
+
+2. **CSS Selectors & Specificity (15 points): I used a variety of CSS selectors to target specific elements for styling. For example, I employed class selectors like .container, .service-list, .profile-feat, and more to apply styles selectively. Additionally, I used class selectors like .active and pseudo-class selectors like :hover to create interactive effects. My use of selectors demonstrates a clear understanding of CSS specificity.
+
+3. **CSS Advanced Techniques (10 points):
+
+4. **Flexbox, Grid, or CSS Box Model & Layouts (5 points): I utilized CSS Grid for layout purposes. The .container class is set to display: grid, and I defined grid columns with grid-template-columns. This approach allows for responsive and structured layout design, which is considered a best practice in modern web development.
+
+5. **Rule Locations (Inline/ Internal/ External) (5 points): I followed best practices by placing my CSS rules in an external stylesheet named "common5.css." This separation of styles from the HTML document promotes maintainability and reusability. I did not use inline styles or internal styles, which aligns with proper web development practices.
+
+6. **Bonus Points - For Good Visualization (3 points): My CSS code is well-organized and structured, making it easy to read and understand. I used consistent indentation, grouping related styles together, and providing clear comments when needed. These practices contribute to good code visualization and earned me bonus points.
+
