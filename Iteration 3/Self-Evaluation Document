@@ -1,1 +1,49 @@
+Total Score is 97/100 - Logical Operators(2) and Loops(1) not necessary in my process.
 
+Form Validations and Other Events (60 points):
+
+Inline Event Handler Approach (15 points): 
+	common_page.html includes inline event handler when user clicks user which lets them know they are a producer
+
+Listener Approach (15 points):
+	producer1.html includes an event listener for the "previous" and "next" day buttons.
+	producer3.html includes an event listener for clicking on playlist containers to change text color and background color.
+
+Event Types (20 points):
+	All HTML files include various event types, such as "click" on different elements.
+
+Validating Forms (10 points): 
+	producer1.html includes a character count limit for the search function and also checks for bad words
+
+Manipulate Style (30 points):
+
+Modifying a DOM Element (15 points):
+	common_page.html modifies the DOM by opening and closing a dialog box when clicking on the "User" button.
+	producer1.html modifies the DOM by updating the date display when clicking on "previous" and "next" day buttons.
+
+Properties (5 points): 
+	producer3.html works with properties by changing the background color to green when clicked on
+
+Window Object (10 points): 
+	producer1.html uses alert property to let user know when bad word is entered in search bar
+	producer3.html uses DOMContentLoaded property when selecting a playlist
+
+Demonstrates Use of Various JavaScript Fundamentals (10 points):
+
+Variables (2 points): 
+	All HTML files use variables for various purposes.
+
+Comparison Operators (2 points): 
+	producer1.html compares user input with bad words list and to check length
+
+Logical Operators (2 points): 
+	None of the HTML files explicitly demonstrate the use of logical operators as in the example provided.
+
+Conditionals (2 points): 
+	producer1.html uses if statement to check for bad words in search bar
+
+Loops (1 point): 
+	None of the HTML files explicitly demonstrate the use of loops as in the example provided.
+
+Functions (1 point): 
+	producer3.html defines a function (changeTextColorAndBackground) and attaches an event listener, which demonstrates the ability to create and use functions.
