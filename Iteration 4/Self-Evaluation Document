@@ -1,0 +1,20 @@
+Self Evaluation Score: 100/100
+1. Server-Side Setup and Configuration (40 points)
+
+Node.js Setup (20 points): I successfully installed Node.js and initialized my project with the necessary packages. I followed the proper procedures for setting up Node.js. I earned the full 20 points for this section because my Node.js configuration was accurate.
+
+Server Configuration (20 points): I ensured that my Express server was correctly set up in a file (e.g., app.js) and that it was configured to use EJS as the templating engine. Furthermore, I organized my project directory neatly, separating routes, views, and static files. I believe I earned the full 20 points for this category due to my meticulous server configuration.
+
+2. EJS Implementation (40 points)
+
+EJS Syntax (20 points): In my EJS templates, I confidently demonstrated a good understanding of EJS syntax. I used EJS tags and expressions accurately. My syntax was clean and consistent, contributing to the full 20 points awarded for this section.
+
+Data Passing (10 points): Data was successfully passed from my server to my EJS templates. I verified that my data was appropriately displayed within my templates, leading me to receive the full 10 points for this category.
+
+EJS Views (10 points): I meticulously crafted dynamic EJS views for my radio station application and effectively used EJS layouts to create all pages. This resulted in well-structured and dynamic views. I believe my proficiency in creating EJS views earned me the full 10 points in this section.
+
+3. Functionality (20 points)
+
+All Features Working (20 points): To the best of my knowledge, all features of the application are functioning as intended. The links within the application led users to the correct pages, buttons executed their designated actions flawlessly, and data was presented accurately. As such, I believe I earned the full 20 points for this category.
+
+In my self-evaluation, I have justified why I think I earned each of the allocated points in these three categories. My confidence in these assessments is based on my thorough understanding of the project and careful implementation of the features.
