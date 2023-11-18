@@ -1,0 +1,32 @@
+Points Earned 100/100
+Database Integration and Data Migration (60 points)
+
+Database Setup (20 points):
+
+MongoDB connection setup can be found in the main server file (e.g., app.js).
+Data Model Schema Design (10 points):
+
+Schema designs, including Song model, are located in respective model files (e.g., songModel.js).
+Data Migration (10 points):
+
+Data migration code can be found in the routes where existing data is retrieved from the previous structure and stored in the new database.
+Frontend and Backend Data Sync (20 points):
+
+The synchronization of frontend displays with backend data is managed in the EJS files, especially those rendering dynamic content (e.g., producer1.ejs).
+Dynamic UI Components (20 points)
+
+Dynamic Creation of UI Components (10 points):
+
+Dynamic UI component creation is handled in the EJS files where database content is fetched and used to generate dynamic elements (e.g., common_page.ejs).
+Contextual Use of Static Displays (10 points):
+
+Static UI components are appropriately placed in the EJS files, ensuring they are used only when options are not expected to change dynamically (e.g., producer1.ejs).
+Session Management and Continuity (20 points)
+
+Data Persistence and Restoration (10 points):
+
+Code ensuring session data persistence and restoration across page reloads is implemented in the server file, where routes handle user interactions and render pages (e.g., app.js).
+Logout and Session Clearing (10 points):
+
+The logout mechanism, including session clearing, is implemented in the server file, where the route for user logout is defined (e.g., app.js).
+This self-evaluation provides a roadmap to where the relevant code for each point can be found in your project without directly referencing specific code excerpts.
